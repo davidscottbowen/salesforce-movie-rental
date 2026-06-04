@@ -1,0 +1,12 @@
+[
+  {
+    "name": "The Matrix",
+    "genre": "Sci-Fi",
+    "copies": 4
+  },
+  {
+    "name": "Top Gun",
+    "genre": "Action",
+    "copies": 3
+  }
+]
