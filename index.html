@@ -70,7 +70,8 @@ and Apex trigger inventory automation.
 </div>
 
 <script>
-fetch('movies.json')
+// fetch('movies.json')
+fetch('https://scott-dev-ed.develop.my.salesforce-sites.com/services/apexrest/movies/')
     .then(response => response.json())
     .then(movies => {
         let html = '';
